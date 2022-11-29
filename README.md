@@ -9,5 +9,5 @@ Informatics Engineering Graduation at Yogyakarta University of Technology who wa
 ## My social Media
 
 - Linkedin : [Ahmad Gozali](https://www.linkedin.com/in/ahmad-gozali/)
-* Instagram :[Agozalii](https://www.instagram.com/agozalii/?hl=id)
-+ Twitter :[Tylerzall](https://twitter.com/tylerzall)
+* Instagram : [Agozalii](https://www.instagram.com/agozalii/?hl=id)
++ Twitter : [Tylerzall](https://twitter.com/tylerzall)
