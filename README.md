@@ -6,11 +6,7 @@ My name is Ahmad Gozali.
 
 I'm a web developer with expertise in web design, development, and testing. I graduated from Yogyakarta University of Technology with a degree in Informatics Engineering. My passion lies in creating scalable web applications and working across the full stack.
 
-With over 5 years of experience, I've successfully led teams in delivering innovative web solutions for diverse clients. I'm skilled in technologies like HTML, CSS, JavaScript, as well as popular frameworks such as React and Angular.
-
-Furthermore, I have a strong understanding of backend development using languages like Python and Node.js. I also possess experience in designing and managing databases using MySQL and MongoDB.
-
-Collaboration and effective communication are important to me, and I thrive in team environments. I'm committed to continuous learning and staying updated with the latest industry trends to enhance my skills.
+With over 5 years of experience, I've successfully led teams in delivering innovative web solutions for diverse clients. I'm skilled in technologies like HTML, CSS, JavaScript, as well as popular frameworks such as React.
 
 If you're seeking a creative, reliable, and efficient web developer, I'm ready to contribute to your project. I'm open to new opportunities and eager to establish positive working relationships with companies focused on technology development.
 
