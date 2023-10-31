@@ -21,4 +21,3 @@ Ahmad Gozali
 
 - Linkedin : [Ahmad Gozali](https://www.linkedin.com/in/ahmad-gozali/)
 * Instagram : [Agozalii](https://www.instagram.com/agozalii/?hl=id)
-+ Twitter : [Tylerzall](https://twitter.com/tylerzall)
