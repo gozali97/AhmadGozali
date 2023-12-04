@@ -17,6 +17,10 @@ Thank you for visiting my profile. Let's connect soon!
 Best regards,
 Ahmad Gozali
 
+![gozali97's Stats](https://github-readme-stats.vercel.app/api?username=gozali97&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![gozali97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gozali97&theme=vue-dark&hide_border=false)
+![gozali97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gozali97&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 ## My Social Media
 
 - Linkedin : [Ahmad Gozali](https://www.linkedin.com/in/ahmad-gozali/)
