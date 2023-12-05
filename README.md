@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Gozali</h1>
-<h3 align="center">A passionate Full Stack Developer. I have expertise in developing using popular frameworks such as Laravel and CodeIgniter. In frontend development, I have experience with React JS and Vue JS. Furthermore, I also possess skills in managing databases using MySQL and PostgreSQL. I have in-depth knowledge of database structure and functionality, as well as the ability to optimize database performance and security.</h3>
+<h5 align="center">A passionate Full Stack Developer. I have expertise in developing using popular frameworks such as Laravel and CodeIgniter. In frontend development, I have experience with React JS and Vue JS. Furthermore, I also possess skills in managing databases using MySQL and PostgreSQL. I have in-depth knowledge of database structure and functionality, as well as the ability to optimize database performance and security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gozali97&label=Profile%20views&color=0e75b6&style=flat" alt="gozali97" /> </p>
 
