@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gozali97&label=Profile%20views&color=0e75b6&style=flat" alt="gozali97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gozali97" alt="gozali97" /></a> </p>
-
 - 🔭 I’m currently working on PT Apotek K-24
 
 - 🌱 I’m currently learning **React JS and Vue JS 3**
