@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React JS and Vue JS 3**
 
-- 👨‍💻 All of my projects are available at [https://gozali-portofolio-old.netlify.app/](https://gozali-portofolio-old.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://gozali-portofolio-old.netlify.app/](https://gozali-portofolio-old.netlify.app/)](https://portfolio-ahmad-gozali-ahmad-gozalis-projects.vercel.app/)
 
 - 📫 How to reach me **ahmadmulti10@gmail.com**
 
-- 📄 Know about my CV https://portfolio-ahmad-gozali-ahmad-gozalis-projects.vercel.app
+- 📄 Know about my resume https://drive.google.com/file/d/14p6Tuo4G5V1QzKdiqU2cqx4-M0YonVS-/view?usp=drive_link
 
 ## Connect with me:
 
