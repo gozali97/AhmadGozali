@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmadmulti10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14p6Tuo4G5V1QzKdiqU2cqx4-M0YonVS-/view](https://drive.google.com/file/d/14p6Tuo4G5V1QzKdiqU2cqx4-M0YonVS-/view)
+- 📄 Know about my CV https://portfolio-ahmad-gozali-ahmad-gozalis-projects.vercel.app
 
 ## Connect with me:
 
