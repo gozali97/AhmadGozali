@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS and Vue JS 3**
 
-- 👨‍💻 All of my projects are available at (https://portfolio-ahmad-gozali-ahmad-gozalis-projects.vercel.app)
+- 👨‍💻 All of my projects are available at ([https://portfolio-ahmad-gozali-ahmad-gozalis-projects.vercel.app](https://portfolio-ahmad-gozali.vercel.app/))
 
 - 📫 How to reach me **ahmadmulti10@gmail.com**
 
