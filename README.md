@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmadmulti10@gmail.com**
 
-- 📄 Know about my resume ([CV Ahmad Gozali](https://drive.google.com/file/d/14p6Tuo4G5V1QzKdiqU2cqx4-M0YonVS-/view?usp=drive_link))
+- 📄 Know about my resume ([CV Ahmad Gozali](https://drive.google.com/file/d/1OtDN2sBdc91Uzf7Ho8KdsF-3K623RHXH/view?usp=sharing))
 
 ## Connect with me:
 
